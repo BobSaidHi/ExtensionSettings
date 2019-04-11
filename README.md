@@ -1,2 +1,2 @@
 # LeechBlockNGSettings
-The seetings I use with Leech Block NG
+The setings I use with Leech Block NG
