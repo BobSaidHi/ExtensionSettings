@@ -1,0 +1,27 @@
+{
+  "chrome.storage.local": {
+    "audio": true,
+    "battery": false,
+    "click": "click.popup",
+    "faqs": true,
+    "favicon": true,
+    "form": true,
+    "go-hidden": false,
+    "last-update": 1555119367656,
+    "link.context": true,
+    "log": false,
+    "mode": "time-based",
+    "notification.permission": true,
+    "number": 6,
+    "online": true,
+    "page.context": true,
+    "period": 600,
+    "pinned": true,
+    "tab.context": true,
+    "whitelist": [],
+    "whitelist-url": []
+  },
+  "localStorage": {
+    "click": "popup"
+  }
+}
