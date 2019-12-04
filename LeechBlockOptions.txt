@@ -99,11 +99,7 @@ regexpBlock4=
 regexpAllow4=
 ignoreHash4=true
 setName5=Delay
-<<<<<<< HEAD
 sites5=* +archive.org/web +britannica.com +citationmachine.net +edpuzzle.com +google.com +google.com +ixl.com +khanacademy.org +lucidchart.com +lucidpress.com +oslis.org +quetext.com +remind.com +salinasuhsd.org +sites.google.com/a/salinasuhsd.org +wikipedia.org
-=======
-sites5=* +*.google.com +edpuzzle.com +google.com
->>>>>>> dc3de86da72026960fd3302dcaa13d4ac943955d
 times5=0000-0530,2145-2400
 limitMins5=
 limitPeriod5=
@@ -128,11 +124,7 @@ regexpBlock5=
 regexpAllow5=
 ignoreHash5=true
 setName6=GrayScale
-<<<<<<< HEAD
 sites6=* +archive.org/web +britannica.com +citationmachine.net +edpuzzle.com +google.com +google.com +ixl.com +khanacademy.org +lucidchart.com +lucidpress.com +oslis.org +quetext.com +remind.com +salinasuhsd.org +sites.google.com/a/salinasuhsd.org +wikipedia.org
-=======
-sites6=* +*.google.com +edpuzzle.com +google.com
->>>>>>> dc3de86da72026960fd3302dcaa13d4ac943955d
 times6=0000-0515,2200-2400
 limitMins6=5
 limitPeriod6=1800
@@ -157,11 +149,7 @@ regexpBlock6=
 regexpAllow6=
 ignoreHash6=true
 setName7=Block
-<<<<<<< HEAD
 sites7=* +archive.org/web +britannica.com +citationmachine.net +edpuzzle.com +google.com +google.com +ixl.com +khanacademy.org +lucidchart.com +lucidpress.com +oslis.org +quetext.com +remind.com +salinasuhsd.org +sites.google.com/a/salinasuhsd.org +wikipedia.org
-=======
-sites7=* +*.google.com +edpuzzle.com +google.com
->>>>>>> dc3de86da72026960fd3302dcaa13d4ac943955d
 times7=0000-0500,2225-2400
 limitMins7=5
 limitPeriod7=900
@@ -181,11 +169,7 @@ prevOpts7=false
 prevAddons7=false
 prevSupport7=false
 showTimer7=true
-<<<<<<< HEAD
 sitesURL7=https://raw.githubusercontent.com/BobSaidHi/ExtensionSettings/master/LeechBlock-ListGenericNight
-=======
-sitesURL7=
->>>>>>> dc3de86da72026960fd3302dcaa13d4ac943955d
 regexpBlock7=
 regexpAllow7=
 ignoreHash7=true
