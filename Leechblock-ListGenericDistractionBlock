@@ -1,6 +1,7 @@
 *.collegeboard.org
 +*.gov
 +*.sharepoint.com
++*.smartmusic.com
 +accounts.google.com
 +archive.org
 +canva.com
@@ -18,6 +19,7 @@
 +merriam-webster.com
 +montereylibrary.org
 +music.google.com
++music.youtube.com
 +myaccount.google.com
 +ppmmeducation.thinkific.com
 +ptable.com
@@ -26,6 +28,7 @@
 +sheets.google.com
 +spark.adobe.com`
 +translate.google.com
++v2.versoapp.com
 +web.kamihq.com
 +www.monterey.org
 +zinclearninglabs
@@ -82,3 +85,5 @@ sslshopper.com
 stackoverflow.com
 thebluealliance.com
 thebulletin.org
+www.youtube.com
+*.slack.com

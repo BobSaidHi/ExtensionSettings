@@ -2,10 +2,10 @@
 +*.collegeboard.org
 +*.gov
 +*.sharepoint.com
++*.smartmusic.com
 +accounts.google.com
 +adventuresinenergy.org
 +archive.org
-+archive.org/web
 +britannica.com
 +canva.com
 +caronefitness.com
@@ -27,6 +27,7 @@
 +merriam-webster.com
 +montereylibrary.org
 +music.google.com
++music.youtube.com
 +myaccount.google.com
 +oslis.org
 +pdfviewer.softgateon.net
@@ -42,9 +43,9 @@
 +sites.google.com/a/salinasuhsd.org
 +spark.adobe.com
 +translate.google.com
++v2.versoapp.com
 +web.kamihq.com
 +wikipedia.org
 +www.google.com
 +www.monterey.org
 +zinclearninglabs
-curseforge.com
