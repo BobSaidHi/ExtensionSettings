@@ -1,8 +1,11 @@
 *.collegeboard.org
+*.slack.com
++*.collegeboard.org
 +*.gov
 +*.sharepoint.com
 +*.smartmusic.com
 +accounts.google.com
++apstudents.collegeboard.org
 +archive.org
 +canva.com
 +caronefitness.com
@@ -30,7 +33,9 @@
 +translate.google.com
 +v2.versoapp.com
 +web.kamihq.com
++www.dictionary.com
 +www.monterey.org
++www.thesaurus.com
 +zinclearninglabs
 abtevrythng.com
 addons.mozilla.org
@@ -79,11 +84,9 @@ samsung.com
 scratch.mit.edu
 search.google.com
 silvergames.com
-silvergames.com
 skyblock.net
 sslshopper.com
 stackoverflow.com
 thebluealliance.com
 thebulletin.org
 www.youtube.com
-*.slack.com
