@@ -1,8 +1,10 @@
-+*.collegeboard.org
+*.collegeboard.org
 +*.gov
 +*.sharepoint.com
 +*.smartmusic.com
++account.collegeboard.org
 +accounts.google.com
++apclassroom.collegeboard.org
 +apstudents.collegeboard.org
 +archive.org
 +caronefitness.com
