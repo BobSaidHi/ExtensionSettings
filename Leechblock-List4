@@ -1,5 +1,12 @@
 *.collegeboard.org
++*.band.us
++*.collegeboard.org
++*.commonapp.org
 +*.gov
++*.lucidpress.com
++*.mycoalition.help
++*.mycoalition.org
++*.seesaw.me
 +*.sharepoint.com
 +*.smartmusic.com
 +account.collegeboard.org
@@ -7,6 +14,7 @@
 +apclassroom.collegeboard.org
 +apstudents.collegeboard.org
 +archive.org
++ca-suhsd-psv.edupoint.com
 +caronefitness.com
 +classroom.google.com
 +contacts.google.com
@@ -14,8 +22,10 @@
 +drive.google.com
 +f2.app.edmentum.com
 +flipgrid.com
++hs.saplinglearning.com
 +kahoot.it
 +loom.com
++macmillan.vitalsource.com
 +mediaplayer.pearsoncmg.com
 +meet.google.com
 +merriam-webster.com
@@ -30,7 +40,9 @@
 +spark.adobe.com
 +translate.google.com
 +v2.versoapp.com
++vocaroo.com
 +web.kamihq.com
++weebly.com?
 +www.dictionary.com
 +www.monterey.org
 +www.thesaurus.com
