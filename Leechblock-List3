@@ -1,5 +1,6 @@
 *.collegeboard.org
 +*.band.us
++*.calpoly.edu
 +*.collegeboard.org
 +*.commonapp.org
 +*.lucidpress.com
@@ -8,12 +9,14 @@
 +*.seesaw.me
 +*.sharepoint.com
 +*.smartmusic.com
++*.starrezhousing.com
 +account.collegeboard.org
 +accounts.google.com
 +apclassroom.collegeboard.org
 +apstudents.collegeboard.org
 +archive.org
 +ca-suhsd-psv.edupoint.com
++calpoly.starrezhousing.com
 +canva.com
 +caronefitness.com
 +classroom.google.com
@@ -22,8 +25,10 @@
 +drive.google.com
 +f2.app.edmentum.com
 +flipgrid.com
++flippingphysics.com
 +hs.saplinglearning.com
 +kahoot.it
++litcharts.com
 +loom.com
 +macmillan.vitalsource.com
 +mediaplayer.pearsoncmg.com
@@ -41,6 +46,8 @@
 +vocaroo.com
 +web.kamihq.com
 +weebly.com?
++wolframalpha.com
++www.bkstr.com
 +www.dictionary.com
 +www.merriam-webster.com
 +www.monterey.org
