@@ -1,15 +1,19 @@
 *.collegeboard.org
 *.slack.com
++*.adobe.com
 +*.band.us
 +*.calpoly.edu
 +*.collegeboard.org
 +*.commonapp.org
 +*.gov
 +*.lucidpress.com
++*.maintenanceconnection.com
++*.mheducation.com
 +*.mycoalition.help
 +*.mycoalition.org
 +*.seesaw.me
 +*.sharepoint.com
++*.slack.com
 +*.smartmusic.com
 +*.starrezhousing.com
 +account.collegeboard.org
@@ -19,6 +23,7 @@
 +archive.org
 +ca-suhsd-psv.edupoint.com
 +calpoly.starrezhousing.com
++calpoly.tedu.app
 +canva.com
 +caronefitness.com
 +classroom.google.com
@@ -100,7 +105,6 @@ python.org
 quora.com
 reddit.com
 rivercombat.com
-samsung.com
 scratch.mit.edu
 search.google.com
 silvergames.com

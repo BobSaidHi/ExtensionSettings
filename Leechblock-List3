@@ -1,13 +1,17 @@
 *.collegeboard.org
++*.adobe.com
 +*.band.us
 +*.calpoly.edu
 +*.collegeboard.org
 +*.commonapp.org
 +*.lucidpress.com
++*.maintenanceconnection.com
++*.mheducation.com
 +*.mycoalition.help
 +*.mycoalition.org
 +*.seesaw.me
 +*.sharepoint.com
++*.slack.com
 +*.smartmusic.com
 +*.starrezhousing.com
 +account.collegeboard.org
@@ -17,6 +21,7 @@
 +archive.org
 +ca-suhsd-psv.edupoint.com
 +calpoly.starrezhousing.com
++calpoly.tedu.app
 +canva.com
 +caronefitness.com
 +classroom.google.com
